@@ -49,7 +49,7 @@ This tutorial outlines the functions of VPN's and being able to provide secure a
 <img src="https://i.imgur.com/rxOCFvc.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Few quick searches in our Google Browser to show the changes in language and URL's.
+ A few quick searches in our Google Browser to show the changes in language and URL's.
 </p>
 
 <p>
