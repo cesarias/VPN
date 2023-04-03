@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/eStWstA.png" height="30%" width="30%" alt="Sentinel logo"/>
 </p>
 
-<h1> Azure Compute and Networking </h1>
-This tutorial outlines networking between to Virutual Machines deployed on Azure with different OS's.<br />
+<h1> Connecting VM to VPN in another Country </h1>
+This tutorial outlines the functions of VPN's and being able to provide secure access to a remote computer over the internet.<br />
 
 
 
@@ -12,35 +12,43 @@ This tutorial outlines networking between to Virutual Machines deployed on Azure
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Proton VP
+
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- MAC OS / Windows 10(VM)</b> 
 
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/t4ojnaR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/R4GqD1X.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Here a VM was created on Azure. The VM was created with Windows 10 as the OS and set up its location in East Asia(Zone 1), giving the VM the Public IP adress of is 52.139.157.164. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/syufPxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Here we're logged in our VM through Microsoft Remote Desktop. We download the application ProtonVPN on our VM. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/LVRBVQr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Connected our VM to to a New VPN in The Netherlands giving the VM a new IP adress of 185.107.80.54 . 
+</p>
+
+<p>
+<img src="https://i.imgur.com/rxOCFvc.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Few quick searches in our Google Browser to show the changes in language and URL's.
 </p>
 <br />
