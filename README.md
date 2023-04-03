@@ -51,4 +51,11 @@ This tutorial outlines the functions of VPN's and being able to provide secure a
 <p>
  Few quick searches in our Google Browser to show the changes in language and URL's.
 </p>
+
+<p>
+<img src="https://i.imgur.com/RSvlxYP.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Graph illustrating the function of VPN's by creating safe and secure connections between computers/networks in the public internet. 
+</p>
 <br />
