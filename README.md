@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/eStWstA.png" height="30%" width="30%" alt="Sentinel logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1> Azure Compute and Networking </h1>
+This tutorial outlines networking between to Virutual Machines deployed on Azure with different OS's.<br />
 
 
 
@@ -18,13 +18,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 
